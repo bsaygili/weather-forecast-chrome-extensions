@@ -5,7 +5,7 @@
 
 
 
-<h2> Chrome Extansion: Weather Forecast </h2>
+<h2> Chrome Extension: Weather Forecast </h2>
 
 <h3>Setup:</h3>
 
