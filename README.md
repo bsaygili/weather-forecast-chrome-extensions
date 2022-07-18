@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 
-<h1> Chrome Extansion: Weather Forecast </h1>
+<h2> Chrome Extansion: Weather Forecast </h2>
 
-<h2>Setup:<h2>
+<h3>Setup:</h3>
 
 <ol>
     <li>Download this project.</li>
@@ -16,10 +15,20 @@
     <li>Last thing you to do is to click "Pin" this extension.</li>
 </ol>
 
-<hr>
+<hr/>
 
-<h2>Author</h2>
+<h3>Author</h3>
 
 <ul>
     <li>Github : <a href="https://github.com/bsaygili">@bahadirsaygili</a></li>
+    <li>Linkedin : <a href="https://www.linkedin.com/in/bahadir-saygili/">@bahadirsaygili</a></li>
+    <li>website : <a href="https://www.bahadirsaygili.com/">www.bahadirsaygili.com</a></li>
 </ul>
+
+<hr/>
+
+<h3>Contributing</h3>
+
+<p>Contributions, issues and feature requests are welcome!</p>
+
+<p>Feel free to check the<a href="https://github.com/bsaygili/weather-forecast-chrome-extensions/issues" target="_blank"> issues page</a></p>
