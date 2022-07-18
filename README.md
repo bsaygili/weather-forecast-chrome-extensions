@@ -1,4 +1,10 @@
 
+<div>
+    <img src="https://user-images.githubusercontent.com/25987727/179611569-da40faf1-4c84-439d-b522-35ff4504f532.png" alt="wF"/>
+</div>
+
+
+
 <h2> Chrome Extansion: Weather Forecast </h2>
 
 <h3>Setup:</h3>
