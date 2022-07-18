@@ -32,3 +32,9 @@
 <p>Contributions, issues and feature requests are welcome!</p>
 
 <p>Feel free to check the<a href="https://github.com/bsaygili/weather-forecast-chrome-extensions/issues" target="_blank"> issues page</a></p>
+
+<hr/>
+
+<h3>Show your support</h3>
+
+<p>Give a ⭐️ if you like this project!</p>
