@@ -11,7 +11,7 @@
 
 <ol>
     <li>Download this project.</li>
-    <li>Open chorme browser.</li>
+    <li>Open chrome browser.</li>
     <li>Click "Extensions" top-right side of the browser.</li>
     <li>Click "Developer mode" ON.</li>
     <li>On the top-left side the browser click "Load unpacked"</li>
