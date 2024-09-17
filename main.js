@@ -1,5 +1,3 @@
-// cfea0581001b06c132af9527074edc9f
-// https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
 const api = {
   baseURL: "https://api.openweathermap.org/data/2.5/",
   key: "cfea0581001b06c132af9527074edc9f",
